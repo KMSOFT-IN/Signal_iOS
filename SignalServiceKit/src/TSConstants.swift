@@ -215,7 +215,7 @@ private class TSConstantsProduction: TSConstantsProtocol {
         // Add the current `keyBackupEnclave` value here when replacing it.
     ]
 
-    public let applicationGroup = "group." + Bundle.main.bundleIdPrefix + ".signal.group"
+    public let applicationGroup = "group.in.chat.kmsoft"
 
     // We need to discard all profile key credentials if these values ever change.
     // See: GroupsV2Impl.verifyServerPublicParams(...)
@@ -272,7 +272,7 @@ private class TSConstantsStaging: TSConstantsProtocol {
         // Add the current `keyBackupEnclave` value here when replacing it.
     ]
 
-    public let applicationGroup = "group." + Bundle.main.bundleIdPrefix + ".signal.group.staging"
+    public let applicationGroup = "group.in.chat.kmsoft"
 
     // We need to discard all profile key credentials if these values ever change.
     // See: GroupsV2Impl.verifyServerPublicParams(...)
