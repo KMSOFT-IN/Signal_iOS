@@ -1,0 +1,9 @@
+NSAppleMusicUsageDescription = "يحتاج Signal إلى استخدام Apple Music لِتشغيل الوسائط المُرفقة.";
+NSCameraUsageDescription = "يحتاج Signal إلى الوصول إلى الكاميرا لإلتقاط الصور والمكالمات بالصورة.";
+NSContactsUsageDescription = "يَستخدم Signal جهات اتصالك لإيجاد المُستخدمين الذين تعرفهم. لا نقوم بتخزين جهات اتصالك في خوادمنا.";
+NSFaceIDUsageDescription = "قفل شاشة Signal يستخدم تقنية التعرف على الوجه.";
+NSLocationWhenInUseUsageDescription = "يحتاج Signal إلى الوصول لموقعك لمشاركة موقعك الحالي.";
+NSMicrophoneUsageDescription = "يحتاج Signal الوصول إلى ميكروفونك ليصبح بإمكانك الاتصال أو تسجيل الرسائل الصوتية.";
+NSPhotoLibraryAddUsageDescription = "سيحفظ Signal الصور في مكتبتك.";
+NSPhotoLibraryUsageDescription = "سَيسمح لك Signal باختيار الصور التي تريد إرسالها من مكتبتك.";
+NSLocalNetworkUsageDescription = "يَستخدم Signal الشبكة المحلية للسماح لك بنقل حسابك مباشرة إلى الهاتف الجديد. لن يتم استخدامه إلا إذا رغبت صراحة ببدء عملية النقل نحو الجهاز الجديد.";

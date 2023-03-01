@@ -1,0 +1,2 @@
+• New animation improvements in the media and avatar viewers let you smoothly step back and see the big picture.
+• We fixed a couple of layout bugs that would sometimes cause buttons to show up in the wrong place on new iPhones, like invisible castaways marooned underneath Apple's Dynamic Island.
